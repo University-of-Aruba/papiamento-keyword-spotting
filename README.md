@@ -2,7 +2,7 @@
 
 This repository accompanies the thesis and provides code, experiments, and documentation. It uses a virtual environment (venv) for dependency management.
 
-## Setup
+## Setup on a Local Environment
 
 1. Create a Python virtual environment using the command line interface
 
