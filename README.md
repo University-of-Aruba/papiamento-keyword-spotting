@@ -24,6 +24,10 @@ This repository accompanies the thesis and provides code, experiments, and docum
    ```bash
    .\.venv\Scripts\Activate.ps1
    ```
+   in case of access issues in PowerShell, run
+   ```bash
+   Set-ExecutionPolicy Unrestricted -Scope Process
+   ```
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
