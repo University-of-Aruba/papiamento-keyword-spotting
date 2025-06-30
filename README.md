@@ -14,31 +14,31 @@ This repository accompanies the thesis and provides code, experiments, and docum
    ```bash
    python3 -m venv .venv
    ```
-   , then activate it
-
-   on Linux/macOS with
+   , then activate it on Linux/macOS with
    ```bash
    source .venv/bin/activate
    ```
-   on Windows (PowerShell) with
+   or on Windows (PowerShell) with
    ```bash
    .\.venv\Scripts\Activate.ps1
    ```
-   in case of access issues in PowerShell, run
+   . In case of access issues in PowerShell, run
    ```bash
    Set-ExecutionPolicy Unrestricted -Scope Process
    ```
+
+   then retry activating the environment.
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 4. Start Jupyter:
 
-   using 
+   from the command line 
    ```bash
    jupyter notebook
    ```
-   or from within your preferred code editor with Jupyter support (e.g., VS Code).
+   which opens a browser at the address of your local Jupyter server. From there, open the file under `notebook/papiamento-keyword-spotting.ipynb`. Alternatively, you can open this file from your preferred code editor with Jupyter support (e.g., VS Code).
 
 ## Project Structure
 - Notebooks and scripts for experiments
