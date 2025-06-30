@@ -4,7 +4,7 @@ This repository accompanies the thesis and provides code, experiments, and docum
 
 ## Setup
 
-1. Create a Python virtual environment
+1. Create a Python virtual environment using the command line interface
 
    for `python`:
    ```bash
@@ -14,9 +14,15 @@ This repository accompanies the thesis and provides code, experiments, and docum
    ```bash
    python3 -m venv .venv
    ```
-   , then activate it with
+   , then activate it
+
+   on Linux/macOS with
    ```bash
    source .venv/bin/activate
+   ```
+   on Windows (PowerShell) with
+   ```bash
+   .\.venv\Scripts\Activate.ps1
    ```
 3. Install dependencies:
    ```bash
