@@ -4,20 +4,31 @@ This repository accompanies the thesis and provides code, experiments, and docum
 
 ## Setup
 
-1. Create a virtual environment:
+1. Create a Python virtual environment
+
+   for `python`:
+   ```bash
+   python -m venv .venv
+   ```
+   or `python3`:
    ```bash
    python3 -m venv .venv
+   ```
+   , then activate it with
+   ```bash
    source .venv/bin/activate
    ```
-2. Install dependencies:
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Start Jupyter:
+4. Start Jupyter:
+
+   using 
    ```bash
-   pip install notebook
    jupyter notebook
    ```
+   or from within your preferred code editor with Jupyter support (e.g., VS Code).
 
 ## Project Structure
 - Notebooks and scripts for experiments
