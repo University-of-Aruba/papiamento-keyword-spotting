@@ -8,7 +8,7 @@ Joel Rajnherc and collaborators • Bachelor Thesis Project • SISSTEM • UARC
 ## 🧭 Overview
 This repository accompanies the bachelor thesis by Joel Rajnherc entitled _"Speech-to-text model for keyword spotting applications in the Papiamento language within a healthcare environment"_. The goal of the thesis was to explore a [keyword spotting model](https://mlsysbook.ai/contents/labs/shared/kws_feature_eng/kws_feature_eng.html) for the Papiamento language, which is spoken in Aruba, Bonaire, and Curaçao. An aspirational and sustainble goal is the creation of end-to-end AI voice interfaces in Papiamentu or Papiamento that can be embedded in various applications, including accessibility and healthcare.
 
-The repository provides an implementation in PyTorch through a runnable notebook and linkage with the remote dataset. This is a classification task, trained on a dataset of almost 280 participants, containing a total of 16766 spectrogram arrays, each 1 second long, with 6 different keywords in Papiamento. Additionally, it includes an unknown class for samples that do not contain any of the keywords.
+The repository provides an implementation in PyTorch through a runnable notebook and linkage with the remote dataset. This is a classification task, trained on a dataset of almost 280 participants, containing a total of 16766 spectrogram arrays, each one second long, with six different keywords in Papiamento. Additionally, it includes an unknown class for samples that do not contain any of the keywords.
 
 ![Spectrogram Sample, one for each of the seven classes.](readme_supplemental/one-sample-per-class-2-rows.png)
 
