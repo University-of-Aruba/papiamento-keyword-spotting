@@ -23,25 +23,25 @@ The repository provides an implementation in PyTorch through a runnable notebook
     </tr>
     <tr>
         <td>
-            https://github.com/user-attachments/assets/fbf46e40-63e0-49c8-8752-221cb663736d
+            <video src='https://github.com/user-attachments/assets/fbf46e40-63e0-49c8-8752-221cb663736d'/>
         </td>
         <td>
-            https://github.com/user-attachments/assets/26ad056d-4851-48cd-9ed2-f4c17fb6c9db
+            <video src='https://github.com/user-attachments/assets/26ad056d-4851-48cd-9ed2-f4c17fb6c9db'/>
         </td>
         <td>
-            https://github.com/user-attachments/assets/4db5a258-6922-47cb-bba1-0d5256a2ab82
+            <video src='https://github.com/user-attachments/assets/4db5a258-6922-47cb-bba1-0d5256a2ab82'/>
         </td>
         <td>
-            https://github.com/user-attachments/assets/440d51c0-26b7-49d2-8d83-664c0d23658f
+            <video src='https://github.com/user-attachments/assets/440d51c0-26b7-49d2-8d83-664c0d23658f'/>
         </td>
         <td>
-            https://github.com/user-attachments/assets/bc5799a8-cea8-4a1b-b334-7f721e79c5aa
+            <video src='https://github.com/user-attachments/assets/bc5799a8-cea8-4a1b-b334-7f721e79c5aa'/>
         </td>
         <td>
-            https://github.com/user-attachments/assets/6b5421af-4fb4-4ff7-bf40-a4e680b52862
+            <video src='https://github.com/user-attachments/assets/6b5421af-4fb4-4ff7-bf40-a4e680b52862'/>
         </td>
         <td>
-            https://github.com/user-attachments/assets/5cf0926a-e8de-4326-9edf-10fdf15f70f6
+            <video src='https://github.com/user-attachments/assets/5cf0926a-e8de-4326-9edf-10fdf15f70f6'/>
         </td>
     </tr>
 </table>
