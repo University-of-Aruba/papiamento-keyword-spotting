@@ -55,7 +55,7 @@ Our first PyTorch attempt with the dataset achieved a **97.14%** test-set accura
 > **Think you can beat that?** We warmly invite fellow students and researchers to take on the challenge: improve the model, experiment with new techniques, and push the boundaries of keyword spotting in Papiamento. If you manage to set a new state-of-the-art, submit a pull request and claim your spot in the leaderboard (see further below)!
 
 > [!NOTE]
-> The dataset is also separately available on Zenodo at the following address: [Zenodo Dataset](https://zenodo.org/record/1234567).
+> The dataset is also separately available on Zenodo at the following address: [Zenodo Dataset](https://zenodo.org/records/15794240).
 
 <br>
 
