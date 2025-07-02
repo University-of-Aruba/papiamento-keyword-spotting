@@ -49,7 +49,7 @@ The repository provides an implementation in PyTorch through a runnable notebook
 
 ---
 
-Our first PyTorch attempt with the dataset achieved a **97.20%** test-set accuracy using a baseline convolutional neural network (CNN).
+Our first PyTorch attempt with the dataset achieved a **97.14%** test-set accuracy using a baseline convolutional neural network (CNN).
 
 > [!IMPORTANT] 
 > **Think you can beat that?** We warmly invite fellow students and researchers to take on the challenge: improve the model, experiment with new techniques, and push the boundaries of keyword spotting in Papiamento. If you manage to set a new state-of-the-art, submit a pull request and claim your spot in the leaderboard (see further below)!
@@ -125,9 +125,20 @@ Simply <a target="_blank" href="https://colab.research.google.com/github/Univers
 
 <br>
 
-## 🪪 License
+## 🪪 License and citation
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.  If you use this repository, accompanying dataset, or thesis, please cite it as follows:
+
+```bibtex
+@thesis{rajnherc2025papiamento,
+  author       = {Rajnherc, Joel Riven}, 
+  type         = {Bachelor's Thesis},
+  title        = {Speech-to-text model for keyword spotting applications in the Papiamento language within a healthcare environment},
+  organization = {University of Aruba},
+  year         = {2025},
+  month        = {April}
+}
+```
 
 <br>
 
@@ -150,7 +161,7 @@ The following contributors have pushed the boundaries of Papiamento keyword spot
       <td>🥇 1</td>
       <td><a href="https://github.com/CringeElectrcityLord"><img src="https://avatars.githubusercontent.com/u/166839372?v=4" width="20" alt="@CringeElectrcityLord"/> <strong>@CringeElectrcityLord</strong></a></td>
       <td>Baseline</td>
-      <td>97.20%</td>
+      <td>97.14%</td>
       <td>2025-07-02</td>
     </tr>
   </tbody>
