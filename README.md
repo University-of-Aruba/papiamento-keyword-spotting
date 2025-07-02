@@ -162,7 +162,7 @@ The following contributors have pushed the boundaries of Papiamento keyword spot
 We’re calling on the community: improve the model, test new ideas, and advance Papiamento keyword spotting. Submit a pull request. If you've managed to set a new benchmark you will earn your place at the top!
 
 > [!IMPORTANT]
-> Pleae note the following guidelines:
+> Please take note of the following guidelines:
 > * All entries must include reproducible code and results.
 > * The standard seed of 42 is used.
 > * Please clear all notebook outputs before submitting your changes.
