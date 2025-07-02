@@ -6,7 +6,7 @@ Joel Rajnherc and collaborators • Bachelor Thesis Project • SISSTEM • UARC
 [![Python 3.13](https://img.shields.io/badge/python-3.13-darkcyan.svg)](https://www.python.org/downloads/release/python-313/) [![Python 3.11](https://img.shields.io/badge/python-3.11-darkcyan.svg)](https://www.python.org/downloads/release/python-311/) [![License](https://img.shields.io/badge/License-Apache_2.0-coral.svg)](https://opensource.org/licenses/Apache-2.0) <a target="_blank" href="https://colab.research.google.com/github/University-of-Aruba/papiamento-keyword-spotting/blob/main/notebook/papiamento-keyword-spotting.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## 🧭 Overview
-This repository accompanies the bachelor thesis by Joel Rajnherc entitled _"Speech-to-text model for keyword spotting applications in the Papiamento language within a healthcare environment"_. The goal of the thesis was to explore a [keyword spotting model](https://mlsysbook.ai/contents/labs/shared/kws_feature_eng/kws_feature_eng.html) for the Papiamento language, which is spoken in Aruba, Bonaire, and Curaçao. An aspirational and sustainble goal is the creation of end-to-end AI voice interfaces in Papiamentu or Papiamento that can be embedded in various applications, including accessibility and healthcare.
+This repository accompanies the SISSTEM Bachelor thesis by Joel Rajnherc entitled _"Speech-to-text model for keyword spotting applications in the Papiamento language within a healthcare environment"_. The goal of the thesis was to explore a [keyword spotting model](https://mlsysbook.ai/contents/labs/shared/kws_feature_eng/kws_feature_eng.html) for the Papiamento language, which is spoken in Aruba, Bonaire, and Curaçao. An aspirational and sustainble goal is the creation of end-to-end AI voice interfaces in Papiamentu or Papiamento that can be embedded in various applications, including accessibility and healthcare.
 
 The repository provides an implementation in PyTorch through a runnable notebook and linkage with the remote dataset. This is a classification task, trained on a dataset of almost 280 participants, containing a total of 16766 spectrogram arrays, each one second long, with six different keywords in Papiamento. Additionally, it includes an unknown class for samples that do not contain any of the keywords.
 
@@ -134,7 +134,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
   author       = {Rajnherc, Joel Riven}, 
   type         = {Bachelor's Thesis},
   title        = {Speech-to-text model for keyword spotting applications in the Papiamento language within a healthcare environment},
-  organization = {University of Aruba},
+  school       = {University of Aruba},
   year         = {2025},
   month        = {April}
 }
