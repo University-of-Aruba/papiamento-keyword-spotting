@@ -49,7 +49,7 @@ The repository provides an implementation in PyTorch through a runnable notebook
 
 ---
 
-Our first PyTorch attempt with the dataset achieved a **97.20%** test-set accuracy using a convolutional neural network (CNN).
+Our first PyTorch attempt with the dataset achieved a **97.20%** test-set accuracy using a baseline convolutional neural network (CNN).
 
 > [!IMPORTANT] 
 > **Think you can beat that?** We warmly invite fellow students and researchers to take on the challenge: improve the model, experiment with new techniques, and push the boundaries of keyword spotting in Papiamento. If you manage to set a new state-of-the-art, submit a pull request and claim your spot in the leaderboard (see further below)!
@@ -140,6 +140,7 @@ The following contributors have pushed the boundaries of Papiamento keyword spot
     <tr>
       <th>Rank</th>
       <th>Contributor</th>
+      <th>Improvement</th>
       <th>Accuracy</th>
       <th>Date Submitted</th>
     </tr>
@@ -148,19 +149,24 @@ The following contributors have pushed the boundaries of Papiamento keyword spot
     <tr>
       <td>🥇 1</td>
       <td><a href="https://github.com/CringeElectrcityLord"><img src="https://avatars.githubusercontent.com/u/166839372?v=4" width="20" alt="@CringeElectrcityLord"/> <strong>@CringeElectrcityLord</strong></a></td>
+      <td>Baseline</td>
       <td>97.20%</td>
       <td>2025-07-02</td>
     </tr>
   </tbody>
 </table>
 
-> [!IMPORTANT]
-> All entries must include reproducible code and results. In this regard, note that the standard seed of 42 is used.
-
 <br>
 
 ## 🤝 Contributing
 We’re calling on the community: improve the model, test new ideas, and advance Papiamento keyword spotting. Submit a pull request. If you've managed to set a new benchmark you will earn your place at the top!
+
+> [!IMPORTANT]
+> Pleae note the following guidelines:
+> * All entries must include reproducible code and results.
+> * The standard seed of 42 is used.
+> * Please clear all notebook outputs before submitting your changes.
+> * **We will not review notebooks with outputs.**
 
 <br>
 
