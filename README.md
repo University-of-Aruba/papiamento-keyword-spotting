@@ -49,7 +49,7 @@ The repository provides an implementation in PyTorch through a runnable notebook
 
 ---
 
-Our first PyTorch attempt with the dataset achieved a **97.14%** test-set accuracy using a baseline convolutional neural network (CNN).
+Our first PyTorch attempt with the dataset achieved a **97.26%** test-set accuracy using a baseline convolutional neural network (CNN).
 
 > [!IMPORTANT] 
 > **Think you can beat that?** We warmly invite fellow students and researchers to take on the challenge: improve the model, experiment with new techniques, and push the boundaries of keyword spotting in Papiamento. If you manage to set a new state-of-the-art, submit a pull request and claim your spot in the leaderboard (see further below)!
@@ -153,6 +153,8 @@ The following contributors have pushed the boundaries of Papiamento keyword spot
       <th>Contributor</th>
       <th>Improvement</th>
       <th>Accuracy</th>
+      <th>Environment</th>
+      <th>Type</th>
       <th>Date Submitted</th>
     </tr>
   </thead>
@@ -161,7 +163,9 @@ The following contributors have pushed the boundaries of Papiamento keyword spot
       <td>🥇 1</td>
       <td><a href="https://github.com/CringeElectrcityLord"><img src="https://avatars.githubusercontent.com/u/166839372?v=4" width="20" alt="@CringeElectrcityLord"/> <strong>@CringeElectrcityLord</strong></a></td>
       <td>Baseline</td>
-      <td>97.14%</td>
+      <td>97.26%</td>
+      <td>Google Colab</td>
+      <td>T4 GPU</td>
       <td>2025-07-02</td>
     </tr>
   </tbody>
