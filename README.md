@@ -1,6 +1,6 @@
 # Code Repository for "Speech-to-text model for keyword spotting applications in the Papiamento language within a healthcare environment"
 
-Joel Rajnherc and collaborators • Bachelor Thesis Project • [SISSTEM](https://www.ua.aw/sisstem/) • [UARC](https://repository.ua.aw) • [University of Aruba](https://www.ua.aw/)
+Joel Rajnherc and collaborators • [Bachelor Thesis Project](https://hdl.handle.net/20.500.14473/1556) • [SISSTEM](https://www.ua.aw/sisstem/) • [UARC](https://repository.ua.aw) • [University of Aruba](https://www.ua.aw/)
 
 ---
 [![Python 3.13](https://img.shields.io/badge/python-3.13-darkcyan.svg)](https://www.python.org/downloads/release/python-313/) [![Python 3.11](https://img.shields.io/badge/python-3.11-darkcyan.svg)](https://www.python.org/downloads/release/python-311/) [![License](https://img.shields.io/badge/License-Apache_2.0-coral.svg)](https://opensource.org/licenses/Apache-2.0) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15794240.svg)](https://doi.org/10.5281/zenodo.15794240) <a target="_blank" href="https://colab.research.google.com/github/University-of-Aruba/papiamento-keyword-spotting/blob/main/notebook/papiamento-keyword-spotting.ipynb?v=3"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
