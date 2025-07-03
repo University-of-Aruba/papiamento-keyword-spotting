@@ -194,11 +194,11 @@ We’re calling on the community: improve the model, test new ideas, and advance
 
 ## 🤗 Acknowledgements
 
-- All the participants that contributed to the data collection!
+- All the participants who contributed to the data collection!
 - All the stakeholders, including but not limited to Full Stack Vision Aruba (Raspberry PI Foundation), ImSan, FHTMS, and Esther Plomp from the University of Aruba Research Center.
 - The thesis supervisor Francis Laclé, co-evaluators Dr. Salys Sultan, Dr. Eric Mijts, and external readers Peter Scholing and John Becker.
 - The thesis was heavily inspired by [tinyMLedu](https://github.com/tinyMLx), [Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition](https://arxiv.org/pdf/1804.03209), and [open-speech-recording](https://github.com/petewarden/open-speech-recording).
-- A special shout out to Jean-Luc at SISSTEM for providing help with data filtering.
+- A special shout-out to Jean-Luc at SISSTEM for providing help with data filtering.
 
 <br>
 
