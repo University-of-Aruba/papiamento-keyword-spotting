@@ -134,7 +134,9 @@ Simply <a target="_blank" href="https://colab.research.google.com/github/Univers
 
 ## 🪪 License and citation
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.  If you use this repository, accompanying dataset, or thesis, please cite it as follows:
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.  If you use this repository, accompanying dataset, or thesis, please cite it as follows.
+
+BibTeX:
 
 ```bibtex
 @thesis{rajnherc2025papiamento,
@@ -143,8 +145,14 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
   title        = {Speech-to-text model for keyword spotting applications in the Papiamento language within a healthcare environment},
   school       = {University of Aruba},
   year         = {2025},
-  month        = {April}
+  month        = {May}
 }
+```
+
+APA:
+
+```
+Rajnherc, J. R. (2025). Speech-to-text model for keyword spotting applications in the Papiamento language within a healthcare environment [Bachelor’s Thesis]. University of Aruba.
 ```
 
 <br>
