@@ -24,25 +24,25 @@ The repository provides an implementation in PyTorch through a runnable notebook
     </tr>
     <tr>
         <td>
-            <video src='https://github.com/user-attachments/assets/87e71ef1-55ab-43a1-bd0a-c440b9128951'/>
+            <video controls controlsList="nodownload noplaybackrate noremoteplayback nofullscreen" src='https://github.com/user-attachments/assets/87e71ef1-55ab-43a1-bd0a-c440b9128951'/>
         </td>
         <td>
-            <video src='https://github.com/user-attachments/assets/a0fd4af3-a14f-47d4-9c20-3a4a8050fb7d'/>
+            <video controls controlsList="nodownload noplaybackrate noremoteplayback nofullscreen" src='https://github.com/user-attachments/assets/a0fd4af3-a14f-47d4-9c20-3a4a8050fb7d'/>
         </td>
         <td>
-            <video src='https://github.com/user-attachments/assets/4efa18fe-6c28-47cf-9f4d-dc8a7bcfbac5'/>
+            <video controls controlsList="nodownload noplaybackrate noremoteplayback nofullscreen" src='https://github.com/user-attachments/assets/4efa18fe-6c28-47cf-9f4d-dc8a7bcfbac5'/>
         </td>
         <td>
-            <video src='https://github.com/user-attachments/assets/ee08b93d-6c6d-4ffa-9f91-5829fb766399'/>
+            <video controls controlsList="nodownload noplaybackrate noremoteplayback nofullscreen" src='https://github.com/user-attachments/assets/ee08b93d-6c6d-4ffa-9f91-5829fb766399'/>
         </td>
         <td>
-            <video src='https://github.com/user-attachments/assets/dda074fa-500e-4cb0-a25b-8d3af54185f3'/>
+            <video controls controlsList="nodownload noplaybackrate noremoteplayback nofullscreen" src='https://github.com/user-attachments/assets/dda074fa-500e-4cb0-a25b-8d3af54185f3'/>
         </td>
         <td>
-            <video src='https://github.com/user-attachments/assets/b217aa05-b104-4857-aa87-1349e1f96c53'/>
+            <video controls controlsList="nodownload noplaybackrate noremoteplayback nofullscreen" src='https://github.com/user-attachments/assets/b217aa05-b104-4857-aa87-1349e1f96c53'/>
         </td>
         <td>
-            <video src='https://github.com/user-attachments/assets/d92bcc2c-8bd2-477b-a81b-58368d98aa08'/>
+            <video controls controlsList="nodownload noplaybackrate noremoteplayback nofullscreen" src='https://github.com/user-attachments/assets/d92bcc2c-8bd2-477b-a81b-58368d98aa08'/>
         </td>
     </tr>
 </table>
