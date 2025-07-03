@@ -12,15 +12,12 @@ The repository provides an implementation in PyTorch through a runnable notebook
 
 ![Spectrogram Sample, one for each of the seven classes.](readme_supplemental/one-sample-per-class-2-rows.png)
 
-<table style="max-width: 800px; margin: auto;">
+<table style="max-width: 100%; margin: auto;">
     <tr>
-        <td align="center">Dolor</td>
-        <td align="center">Masha Danki</td>
-        <td align="center">No</td>
-        <td align="center">Resultado</td>
-        <td align="center">SSImSan</td>
-        <td align="center">Si</td>
-        <td align="center">Unknown</td>
+        <td align="center">Dolor<br>Pain</td>
+        <td align="center">Masha Danki<br>Thank You Very Much</td>
+        <td align="center">No<br>No</td>
+        <td align="center">Resultado<br>Result</td>
     </tr>
     <tr>
         <td>
@@ -35,6 +32,16 @@ The repository provides an implementation in PyTorch through a runnable notebook
         <td>
             <video controls controlsList="nodownload noplaybackrate noremoteplayback nofullscreen" src='https://github.com/user-attachments/assets/ee08b93d-6c6d-4ffa-9f91-5829fb766399'/>
         </td>
+    </tr>
+</table>
+
+<table style="max-width: 100%; margin: auto;">
+    <tr>
+        <td align="center">SSImSan (wake word)</td>
+        <td align="center">Si<br>Yes</td>
+        <td align="center">Unknown</td>
+    </tr>
+    <tr>
         <td>
             <video controls controlsList="nodownload noplaybackrate noremoteplayback nofullscreen" src='https://github.com/user-attachments/assets/dda074fa-500e-4cb0-a25b-8d3af54185f3'/>
         </td>
