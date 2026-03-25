@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, dataset, or thesis, please cite it using these metadata."
+type: software
+title: "Papiamento Keyword Spotting"
+abstract: "Code repository accompanying the Bachelor thesis 'Speech-to-text model for keyword spotting applications in the Papiamento language within a healthcare environment'. Provides a PyTorch implementation of a keyword spotting model for the Papiamento language trained on a dataset of almost 280 participants."
+authors:
+  - family-names: Rajnherc
+    given-names: Joel Riven
+repository-code: "https://github.com/University-of-Aruba/papiamento-keyword-spotting"
+url: "https://hdl.handle.net/20.500.14473/1556"
+license: Apache-2.0
+date-released: "2025-07-03"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15794240
+    description: "Zenodo archive of the dataset and repository"
+keywords:
+  - keyword-spotting
+  - papiamento
+  - speech-recognition
+  - deep-learning
+  - pytorch
+  - healthcare
+preferred-citation:
+  type: thesis
+  thesis-type: "Bachelor's Thesis"
+  title: "Speech-to-text model for keyword spotting applications in the Papiamento language within a healthcare environment"
+  authors:
+    - family-names: Rajnherc
+      given-names: Joel Riven
+  institution:
+    name: "University of Aruba"
+  year: 2025
+  month: 5
+  url: "https://hdl.handle.net/20.500.14473/1556"
